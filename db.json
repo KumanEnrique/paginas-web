@@ -2,12 +2,12 @@
     "paginas": [
         {
             "nombre": "appReact",
-            "descripcion": "Aplicacion de tareas con el framework react js",
+            "descripcion": "Aplicación de tareas con el framework react js",
             "enlace": "https://my-app-react-asanvdwtqb.now.sh"
         },
         {
             "nombre": "CRUD OOP",
-            "descripcion": "Aplicacion de creacíon,lectura,actualización y borrado de productos",
+            "descripcion": "Aplicación de creación,lectura,actualización y borrado de productos",
             "enlace": "https://kumanenrique.github.io/OOPCRUD/"
         },
         {
@@ -17,17 +17,17 @@
         },
         {
             "nombre": "juegoJS",
-            "descripcion": "Juego de cho sin ningun framework js",
+            "descripcion": "Juego hecho sin ningun framework js",
             "enlace": "https://kumanenrique.github.io/juego/"
         },
         {
             "nombre": "localStorage",
-            "descripcion": "Aplicacion hecho con la Api de html:localstorage",
+            "descripcion": "Aplicación hecho con la Api de html:localstorage",
             "enlace": "https://kumanenrique.github.io/localStorage/"
         },
         {
             "nombre": "generador de contraseñas",
-            "descripcion": "Generador de contraseñas echo con solo js",
+            "descripcion": "Generador de contraseñas hecho con solo js",
             "enlace": "https://kumanenrique.github.io/generador-de-contrase-as/"
         },
         {
