@@ -1,46 +1,71 @@
 {
     "paginas": [
-      { "nombre": "appReact", 
-        "descripcion":"Aplicacion de tareas con el framework react js",
-        "enlace":"https://my-app-react-asanvdwtqb.now.sh"},
-      { "nombre": "CRUD OOP", 
-        "descripcion":"Aplicacion de creacíon,lectura,actualización y borrado de productos",
-        "enlace":"https://kumanenrique.github.io/OOPCRUD/"},
-      { "nombre": "pixabayApp", 
-        "descripcion":"Sitio web de consulta de imagenes por medio de la api de Pixabay",
-        "enlace":"https://pixabayapp-vuvqbihiwz.now.sh/"},
-      { "nombre": "juegoJS", 
-        "descripcion":"Juego de cho sin ningun framework js",
-        "enlace":"https://kumanenrique.github.io/juego/"},
-      { "nombre": "localStorage", 
-        "descripcion":"Aplicacion hecho con la Api de html:localstorage",
-        "enlace":"https://kumanenrique.github.io/localStorage/"},
-      { "nombre": "generador de contraseñas", 
-        "descripcion":"Generador de contraseñas echo con solo js",
-        "enlace":"https://kumanenrique.github.io/generador-de-contrase-as/"},
-      { "nombre": "vacaciones", 
-        "descripcion":"Página estatica de un sitio de reservaciones",
-        "enlace":"https://kumanenrique.github.io/vacaciones/"},
-      { "nombre": "Formulario horizontal", 
-        "descripcion":"Formulario hecho con el framework React js",
-        "enlace":"https://multi-step-kjbmj9vm6.now.sh/"},
-      {"nombre": "gente random", 
-        "descripcion":"Aplicación de gente aletoria con la Api de randomuser.me",
-        "enlace": "https://gente-random-e4fwpnhg8.now.sh"}
+        {
+            "nombre": "appReact",
+            "descripcion": "Aplicacion de tareas con el framework react js",
+            "enlace": "https://my-app-react-asanvdwtqb.now.sh"
+        },
+        {
+            "nombre": "CRUD OOP",
+            "descripcion": "Aplicacion de creacíon,lectura,actualización y borrado de productos",
+            "enlace": "https://kumanenrique.github.io/OOPCRUD/"
+        },
+        {
+            "nombre": "pixabayApp",
+            "descripcion": "Sitio web de consulta de imagenes por medio de la api de Pixabay",
+            "enlace": "https://pixabayapp-vuvqbihiwz.now.sh/"
+        },
+        {
+            "nombre": "juegoJS",
+            "descripcion": "Juego de cho sin ningun framework js",
+            "enlace": "https://kumanenrique.github.io/juego/"
+        },
+        {
+            "nombre": "localStorage",
+            "descripcion": "Aplicacion hecho con la Api de html:localstorage",
+            "enlace": "https://kumanenrique.github.io/localStorage/"
+        },
+        {
+            "nombre": "generador de contraseñas",
+            "descripcion": "Generador de contraseñas echo con solo js",
+            "enlace": "https://kumanenrique.github.io/generador-de-contrase-as/"
+        },
+        {
+            "nombre": "vacaciones",
+            "descripcion": "Página estatica de un sitio de reservaciones",
+            "enlace": "https://kumanenrique.github.io/vacaciones/"
+        },
+        {
+            "nombre": "Formulario horizontal",
+            "descripcion": "Formulario hecho con el framework React js",
+            "enlace": "https://multi-step-kjbmj9vm6.now.sh/"
+        },
+        {
+            "nombre": "gente random",
+            "descripcion": "Aplicación de gente aletoria con la Api de randomuser.me",
+            "enlace": "https://gente-random-e4fwpnhg8.now.sh"
+        },
+        {
+            "nombre": "Buqueda de recetas",
+            "descripcion": "Aplicación de busqueda de productos y te nuestra unas recetas",
+            "enlace": "https://recipeapp-8y1iqjskf.now.sh/"
+        }
     ],
-    "conocimientos":[
-      "HTML5",
-      "CSS3",
-      "JS",
-      "REACTJS",
-      "MYSQL",
-      "SQL",
-      "BOOTSTRAP",
-      "GIT",
-      "PHP",
-      "SCSS",
-      "GIMP",
-      "MONGODB"
+    "conocimientos": [
+        "HTML5",
+        "CSS3",
+        "JS",
+        "REACTJS",
+        "MYSQL",
+        "SQL",
+        "BOOTSTRAP",
+        "GIT",
+        "PHP",
+        "SCSS",
+        "GIMP",
+        "MONGODB"
     ],
-    "descripcion":["Desarrollador web Jr. enfocado en el desarollo front-end,egresado del INSTITUTO TECNOLOGICO CANCUN"]
-  }
+    "descripcion": [
+        "Desarrollador web Jr. enfocado en el desarollo front-end,egresado del INSTITUTO TECNOLOGICO CANCUN"
+    ]
+}
