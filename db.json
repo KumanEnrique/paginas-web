@@ -46,9 +46,15 @@
             "enlace": "https://gente-random-e4fwpnhg8.now.sh"
         },
         {
-            "nombre": "Buqueda de recetas",
-            "descripcion": "Aplicación de busqueda de productos y te nuestra unas recetas",
+            "nombre": "Buśqueda de recetas",
+            "descripcion": "Aplicación de búsqueda de productos y te muestra unas recetas",
             "enlace": "https://recipeapp-8y1iqjskf.now.sh/"
+        }
+        },
+        {
+            "nombre": "Búsqueda de recetas",
+            "descripcion": "Aplicación de búsqueda de productos y te muestra unas recetas",
+            "enlace": "https://recipesearchapp-hqy1tt984.now.sh/"
         }
     ],
     "conocimientos": [
