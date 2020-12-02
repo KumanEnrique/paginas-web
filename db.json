@@ -1,9 +1,14 @@
 {
     "paginas": [
         {
-            "nombre": "appReact",
-            "descripcion": "Aplicación de tareas con el framework react js",
-            "enlace": "https://my-app-react-asanvdwtqb.now.sh"
+            "nombre": "Personajes BD",
+            "descripcion": "Aplicación con CRUD con firebase",
+            "enlace": "crud-firebase.vercel.app"
+        },
+        {
+            "nombre": "Aplicación del clima",
+            "descripcion": "Aplicación de consulta del estado del timpo por el mundo",
+            "enlace": "https://clima-app-flame.now.sh/"
         },
         {
             "nombre": "CRUD OOP",
@@ -13,12 +18,17 @@
         {
             "nombre": "pixabayApp",
             "descripcion": "Sitio web de consulta de imagenes por medio de la api de Pixabay",
-            "enlace": "https://pixabayapp-vuvqbihiwz.now.sh/"
+            "enlace": "https://pixabayapp1.vercel.app/"
         },
         {
-            "nombre": "juegoJS",
+            "nombre": "JuegoJS",
             "descripcion": "Juego hecho sin ningun framework js",
             "enlace": "https://kumanenrique.github.io/juego/"
+        },
+        {
+            "nombre": "Efectos y animaciones css",
+            "descripcion": "Mini efectos y animaciones(contenedor)",
+            "enlace": "https://kumanenrique.github.io/practicasHTML5/"
         },
         {
             "nombre": "localStorage",
@@ -26,7 +36,7 @@
             "enlace": "https://kumanenrique.github.io/localStorage/"
         },
         {
-            "nombre": "generador de contraseñas",
+            "nombre": "Generador de contraseñas",
             "descripcion": "Generador de contraseñas hecho con solo js",
             "enlace": "https://kumanenrique.github.io/generador-de-contrase-as/"
         },
@@ -41,7 +51,7 @@
             "enlace": "https://multi-step-kjbmj9vm6.now.sh/"
         },
         {
-            "nombre": "gente random",
+            "nombre": "Gente random",
             "descripcion": "Aplicación de gente aletoria con la Api de randomuser.me",
             "enlace": "https://gente-random-e4fwpnhg8.now.sh"
         },
@@ -54,6 +64,16 @@
             "nombre": "Búsqueda de recetas",
             "descripcion": "Aplicación de búsqueda de productos y te muestra unas recetas",
             "enlace": "https://recipesearchapp-hqy1tt984.now.sh/"
+        },
+        {
+            "nombre": "Presupuesto",
+            "descripcion": "Aplicación de presupuesto",
+            "enlace": "https://vercel-presupuesto.vercel.app/"
+        },
+        {
+            "nombre": "Pagina estatica",
+            "descripcon": "Pagina de presentación",
+            "enlace": "https://sumando-o2klkabls.now.sh/"
         }
     ],
     "conocimientos": [
@@ -68,6 +88,7 @@
         "PHP",
         "SCSS",
         "GIMP",
+        "WebPack",
         "MONGODB"
     ],
     "descripcion": [
